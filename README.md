@@ -1,5 +1,15 @@
-# Overview
-Implemented simple admin panel using Vue Bootstrap with Material Design(MDBVue)
+# Simple Vue JS Project
+
+## What is the use of this Repo
+This Project is a Simple VueJS Project which demonstrates the following
+
+1. Creating a Component in Vue
+2. Making HTTP calls
+3. Communicating between parent and child component
+4. Using Material Design for Bootstrap along with Vue
+5. Using Basic Routing in Vue
+
+The project Template can be used to build bigger projects
 
 # Version
 
