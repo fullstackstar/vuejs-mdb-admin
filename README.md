@@ -11,7 +11,7 @@ This Project is a Simple VueJS Project which demonstrates the following
 
 The project Template can be used to build bigger projects
 
-#Deploy
+# Deploy
 https://fullstackstar.github.io/vuejs-mdb-admin/
 
 # Version
